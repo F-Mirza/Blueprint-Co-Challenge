@@ -30,7 +30,7 @@ pdf2image installation: Install the pdf2image library for PDF conversion:
   
 2.Downloading the Code:
 
-Download the Python script "" from the GitHub repository.
+Download the Python script "final.py" from the GitHub repository.
 
 3.Placing your PDF Files:
 
