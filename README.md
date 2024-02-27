@@ -17,6 +17,7 @@ These difference areas are highlighted using a colored overlay on the common mas
 #Detailed Instructions for Using the Code:
 
 1.Prerequisites:
+
 OpenCV installation: Install OpenCV using pip:
 
   pip install opencv-python
@@ -28,12 +29,15 @@ pdf2image installation: Install the pdf2image library for PDF conversion:
   **make sure the to download poppler and set it in path for the pdfinfo module to work.
   
 2.Downloading the Code:
+
 Download the Python script "" from the GitHub repository.
 
 3.Placing your PDF Files:
+
 Place the two PDF documents (file_1.pdf and file_2.pdf)you want to compare in the same directory as your Python script.
 
 4.Interpreting the Results:
+
 The script will generate an output file named output.pdf. This image will be a copy of the first PDF (file_1.pdf) with areas of significant difference highlighted using a colored overlay.
 **make sure to give path for the PDF file generated.
 
